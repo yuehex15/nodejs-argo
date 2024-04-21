@@ -1,5 +1,5 @@
 {
-  @remix-run/dev;
+  @remix-run/dev,
   "name": "nodejs-argo",
   "version": "8.8.8",
   "description": "Thsi is a node project",
